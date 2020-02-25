@@ -1,4 +1,4 @@
-#Social Engagement for Online Music Streaming 
+Social Engagement for Online Music Streaming
 
 The “freemium” business model is widely used by online services such as LinkedIn, Match.com, Dropbox, and music-listening sites like Spotify. It divides user populations into groups that use the service for free and groups that pay a fee for additional features. Key points related to the freemium model:
 - Free accounts are monetized using online advertising
